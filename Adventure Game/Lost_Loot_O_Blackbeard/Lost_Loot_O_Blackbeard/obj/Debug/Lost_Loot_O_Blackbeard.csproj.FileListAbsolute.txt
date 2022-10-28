@@ -1,0 +1,16 @@
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.exe.config
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.exe
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.pdb
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.exe
+\\RHEA\HOME\2022\22EK3146\Documents\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.pdb
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.exe.config
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.exe
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\bin\Debug\Lost_Loot_O'Blackbeard.pdb
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.AssemblyReference.cache
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.SuggestedBindingRedirects.cache
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.csproj.CoreCompileInputs.cache
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.exe
+E:\My Drive\Computer science\Adventure Game\Lost_Loot_O'Blackbeard\Lost_Loot_O'Blackbeard\obj\Debug\Lost_Loot_O'Blackbeard.pdb
